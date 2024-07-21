@@ -1,1 +1,2 @@
 Bit of text to test git
+Test edit
